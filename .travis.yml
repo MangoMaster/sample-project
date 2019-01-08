@@ -1,0 +1,14 @@
+# See [Travis CI Tutorial](https://docs.travis-ci.com/user/tutorial/)
+
+language: python
+python:
+  - "3.4"
+  - "3.5"
+  - "3.6"
+  - "3.7-dev"  # 3.7 development branch
+# command to install dependencies
+install:
+  - pip install -r requirements.txt
+# command to run tests
+script:
+  - pytest
