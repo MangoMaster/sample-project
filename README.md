@@ -1,24 +1,20 @@
-# Project Title
+# project-name
 
-Project description (One Paragraph)
+project-description (One Paragraph)
 
-## Getting Started
+## Installation
 
-These instructions will get you a copy of the project up and running on your local machine.
+## Usage
 
-### Prerequisites
+## Contribution
 
-### Installing
+Please see [Contribution Guidelines](CONTRIBUTING.md) for details.
 
-## Contributing
+## Credits
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+- **Weijd** - [MangoMaster](https://github.com/MangoMaster)
 
-## Authors
-
-* **Weijd** - [MangoMaster](https://github.com/MangoMaster)
-
-See also the list of [contributors](https://github.com/MangoMaster/project-title/contributors) who participated in this project.
+We sincerely express our thanks to all the [contributors](https://github.com/MangoMaster/project-name/contributors) who participated in this project.
 
 ## License
 
