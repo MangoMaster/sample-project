@@ -2,9 +2,9 @@
 
 project-description (One Paragraph)
 
-## Installation
+## Features
 
-## Usage
+## Getting Started
 
 ## Contribution
 
