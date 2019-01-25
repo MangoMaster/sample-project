@@ -8,6 +8,8 @@ project-description (One Paragraph)
 
 ## Contribution
 
+Please adhere to [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
+
 Please see [Contribution Guidelines](CONTRIBUTING.md) for details.
 
 ## Credits
